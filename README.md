@@ -3,15 +3,35 @@ A full-stack analytics project using SQL and Power BI to simulate real-world eve
 
 ## 📊 Project Highlights
 - **SQL Analysis** on 6 interconnected tables: `accommodation`, `economic_activity`, `security`, `infrastructure`, `calendar`, `pilgrim_attendance`
-- **Power BI Dashboard** with 4 pages: Pilgrim, Infra, Economy & Security, and a High-level Main Page
+- **Power BI Dashboard**: Pilgrim, Infra, Economy & Security, and a High-level Main Page
 - Data storytelling for government planning, event logistics, and future insights
 - Mimics real-world data models with star schema relationships and dimensional modeling
 
-## 🧠 Key Insights
-- Estimated 60M+ pilgrims attended — 65% peak on Amavasya & Makar Sankranti
-- Infra strain seen on bridges and sanitation blocks in weeks 3–4
-- Highest economic activity on Day 24 (~₹12.4Cr), mainly food & local transport
-- Proactive security deployment on high-risk zones led to a 35% drop in incidents
+## 🔍 SQL Analysis
+
+The entire analysis was performed in SQL to derive high-impact event planning insights:
+
+- 🧍‍♂️ **Pilgrim Trends** – Peak attendance days, top contributing states, growth patterns  
+- 🏨 **Accommodation** – Average stay duration, booking preferences, capacity utilization  
+- ⚡ **Infrastructure Load** – Utility usage per sector and date, feedback trends  
+- 🛡️ **Security** – Common incident types, severity mapping, resolution performance  
+- 💰 **Economic Insights** – Revenue per pilgrim, employment contribution, zone performance  
+
+---
+
+## 📊 Power BI Dashboard (1-Page)
+
+A single, **interactive Power BI dashboard** brings together insights across all domains:
+
+![Dashboard Preview]()
+
+**Features**:
+- Executive KPI section: Total attendance, revenue, ratings, incidents
+- Interactive buttons: Navigate to visual zones (Pilgrim, Infra, Security, Economy)
+- Slicers: Date, Zone, Sector, Booking Channel
+- Compact and scrollable layout with storytelling flow
+
+---
 
 ## 🛠 Tech Stack
 - SQL (PostgreSQL)
