@@ -11,11 +11,11 @@ A full-stack analytics project using SQL and Power BI to simulate real-world eve
 
 The entire analysis was performed in SQL to derive high-impact event planning insights:
 
-- 🧍‍♂️ **Pilgrim Trends** – Peak attendance days, top contributing states, growth patterns  
+- 🧍‍♂️ **Pilgrim Trends** – Peak attendance days, growth patterns  
 - 🏨 **Accommodation** – Average stay duration, booking preferences, capacity utilization  
 - ⚡ **Infrastructure Load** – Utility usage per sector and date, feedback trends  
-- 🛡️ **Security** – Common incident types, severity mapping, resolution performance  
-- 💰 **Economic Insights** – Revenue per pilgrim, employment contribution, zone performance  
+- 🛡️ **Security** – Common incident types  
+- 💰 **Economic Insights** – Revenue, employment contribution, sector performance  
 
 ---
 
@@ -26,9 +26,8 @@ A single, **interactive Power BI dashboard** brings together insights across all
 ![Dashboard Preview](https://github.com/Rp363/Maha-Kumbh-Mela-2025-Data-Analysis/blob/ce02b53ad68b426c7f4c6c73ce1de659bd258990/images/Dashboard.png)
 
 **Features**:
-- Executive KPI section: Total attendance, revenue, ratings, incidents
-- Interactive buttons: Navigate to visual zones (Pilgrim, Infra, Security, Economy)
-- Slicers: Date, Zone, Sector, Booking Channel
+- Executive KPI section: Total attendance, revenue, ratings
+- Slicers: Date, Sector
 - Compact and scrollable layout with storytelling flow
 
 ---
