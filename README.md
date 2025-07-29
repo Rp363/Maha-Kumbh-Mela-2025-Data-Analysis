@@ -23,7 +23,7 @@ The entire analysis was performed in SQL to derive high-impact event planning in
 
 A single, **interactive Power BI dashboard** brings together insights across all domains:
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Rp363/Maha-Kumbh-Mela-2025-Data-Analysis/blob/ce02b53ad68b426c7f4c6c73ce1de659bd258990/images/Dashboard.png)
 
 **Features**:
 - Executive KPI section: Total attendance, revenue, ratings, incidents
